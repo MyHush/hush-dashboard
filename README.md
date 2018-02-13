@@ -1,4 +1,4 @@
-# Hush Info
+# Hush Dashboard
 
 Radical Transparency, Hush style
 
@@ -8,4 +8,4 @@ https://dashboard.myhush.org
 
 # Code
 
-This project was inspired by BTCZ info site and uses their code. 
+This project was inspired by BTCZ info site and is based on that code
